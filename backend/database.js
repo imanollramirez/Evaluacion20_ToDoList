@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 // 1- Configuro la URI o dirección de la base de datos
 
 // 2- Conecto la base de datos
-mongoose.connect("mongodb://localhost:27017/toDoList");
+mongoose.connect("mongodb+srv://Imanol:4l3554ndr0@imanolscluster.7jrwi.mongodb.net/");
 
 // ------ Comprobar que todo funciona ------
 
